@@ -1,0 +1,4 @@
+james:
+      name: James Brand
+      email: james@brand.com
+      password_digest: <%= User.digest('password') %>
