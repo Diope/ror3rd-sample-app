@@ -11,12 +11,15 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bcrypt'
+gem 'faker', '~> 1.4.3'
+gem 'will_paginate', '~> 3.0.7'
+gem 'bootstrap-will_paginate', '~> 0.0.10'
 
 
 group :development, :test do
   gem 'byebug'
   gem 'web-console', '~> 2.0'
-  gem 'spring'
+  gem 'spring', '1.3.3'
   gem 'sqlite3'
 end
 
