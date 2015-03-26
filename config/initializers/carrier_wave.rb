@@ -7,9 +7,5 @@ if Rails.env.production?
 			:aws_secret_access_key =>	ENV['/Hrww871HoD3kUzwE+zweBDo0Kn65wVQrj/1MJPa']
 		}
 		config.fog_directory =			ENV['test-oka']
-		
 	end
-
-	Access Key ID:
-
-Secret Access Key:
+end
