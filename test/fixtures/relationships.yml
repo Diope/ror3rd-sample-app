@@ -1,0 +1,15 @@
+one:
+   follower: tinashe
+   followed: lana
+
+two:
+   follower: tinashe
+   followed: mallory
+
+three:
+   follower: lana
+   followed: tinashe
+
+four:
+   follower: archer
+   followed: tinashe
